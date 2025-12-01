@@ -1,3 +1,5 @@
+🔥 Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
+
 📊 PLANO DE NEGÓCIOS – Análise Baseada nos Dados Financeiros
 
 1. Resumo Executivo
