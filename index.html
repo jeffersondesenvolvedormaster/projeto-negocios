@@ -5,6 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Portfólio – Jefferson Lemos</title>
 
+  <script>
+  var isIE = !!window.document.documentMode;
+
+  if (isIE) {
+    document.getElementById("iframe-container").innerHTML = `
+      <p style="color:red; font-size:18px;">
+        Seu navegador não suporta gráficos interativos.
+      </p>
+      <img src="SEU-GRAFICO-EM-IMAGEM.png" style="width:100%; max-width:900px;" />
+    `;
+  }
+</script>
+
 <style>
 
   
