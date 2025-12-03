@@ -1,3 +1,5 @@
+Abra o site abaixo nos navegadores: Chrome, Firefox, Edge e Safari para ter acesso as funcionalidades.
+
 🔥 Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
 
 🔎 Principais pontos demonstrados pelo dashboard:
