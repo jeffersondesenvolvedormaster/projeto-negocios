@@ -21,7 +21,7 @@ Estratégia sugerida: focar em produtos premium, expansão nos mercados da Alema
 
 Identificação clara de sazonalidade e picos
 
-Saber que janeiro e junho são meses de pico permite planejar estoques, marketing e logística com antecedência. Isso ajuda a evitar ruptura de estoque ou excesso de produtos nos meses de baixa. A sazonalidade é uma variável comum e esperada em muitos negócios — quem a gerencia bem tem vantagem competitiva. 
+Saber que de Setembro à Dezembro são meses de pico permite planejar estoques, marketing e logística com antecedência. Isso ajuda a evitar ruptura de estoque ou excesso de produtos nos meses de baixa. A sazonalidade é uma variável comum e esperada em muitos negócios — quem a gerencia bem tem vantagem competitiva. 
 Essa previsibilidade oferece vantagem para alinhar campanhas, compras e planejamento financeiro.
 
 Segmentação geográfica de mercados promissores
