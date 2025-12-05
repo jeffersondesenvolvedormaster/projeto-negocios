@@ -1,4 +1,4 @@
-Abra o site abaixo nos navegadores: Chrome, Firefox, Edge e Safari para ter acesso as funcionalidades.
+Abra o site abaixo no navegador Google Chrome para ter acesso as funcionalidades do Dashboard na WEB .
 
 🔥 Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
 
