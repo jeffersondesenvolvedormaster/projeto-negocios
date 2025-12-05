@@ -4,7 +4,7 @@ Abra o site abaixo no navegador Google Chrome para ter acesso as funcionalidades
 
 🔎 Principais pontos demonstrados pelo dashboard:
 
-Sazonalidade: há picos de demanda ou vendas em janeiro e junho. 
+Sazonalidade: há picos de demanda de vendas de Setembro a Dezembro. 
 
 Geografia: os mercados com maior potencial identificados são Alemanha, Canadá, França e México. 
 
