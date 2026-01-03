@@ -1,6 +1,6 @@
 Abra o site abaixo no navegador Google Chrome para ter acesso as funcionalidades do Dashboard na WEB .
 
-🔥 Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
+ Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
 
 🔎 Principais pontos demonstrados pelo dashboard:
 
@@ -29,17 +29,17 @@ Segmentação geográfica de mercados promissores
 Identificar mercados-alvo (Alemanha, Canadá, França) é essencial para direcionar recursos de marketing e importação/exportação — dá foco ao negócio, o que tende a reduzir desperdício e aumentar eficiência.
 Esse tipo de segmentação pode ser vista como uma forma de “geomarketing”, ou seja, adaptar estratégias conforme padrões geográficos de demanda. 
 
-🔥 Foco em produtos de alto desempenho e mix de portfólio claro
+- Foco em produtos de alto desempenho e mix de portfólio claro
 
 Concentrar no que já gera mais receita (Carretera, Montana, Paseo) ajuda a otimizar recursos — produção, marketing, estoque. Isso aumenta probabilidades de lucro e evita dispersão com itens de baixa performance.
 
-🥇 Projeção de crescimento e abordagem estratégica de premiumização
+- Projeção de crescimento e abordagem estratégica de premiumização
 
 A previsão de crescimento de vendas (+12%) e aumento da receita premium (+18%) sinaliza que há espaço para escalar. Isso sugere que a proposta de valor (talvez preço + qualidade) tem apelo — importante para consolidar posicionamento de marca.
 
 Um plano de ação claro (expansão geográfica + foco em produtos premium + adaptação sazonal) indica boa estrutura de planejamento — fator crucial para negócios bem-sucedidos.
 
-⚠️ Riscos, incertezas e pontos que merecem atenção
+- Riscos, incertezas e pontos que merecem atenção
 
 Apesar dos dados promissores, há várias áreas que exigem cuidado:
 
@@ -54,7 +54,7 @@ Projeções dependem de hipóteses: estimativas de crescimento e margem são pro
 Gestão de capital de giro e fluxo de caixa: com sazonalidade e internacionalização, é fundamental ter um bom planejamento de capital de giro para garantir estabilidade nos períodos de baixa e lidar com custos de importação/exportação, logística e possíveis variações de câmbio. 
 
 
-🎯 Recomendações estratégicas para aproveitar o potencial e mitigar riscos
+- Recomendações estratégicas para aproveitar o potencial e mitigar riscos
 
 Com base nos dados e nos riscos, essas são as sugestões estratégicas:
 
@@ -68,7 +68,7 @@ Planejar estoque e logística de acordo com sazonalidade — antecipar compra e 
 
 Investir em dados e análise contínua — continuar usando dashboards, análises de dados e métricas de desempenho para tomar decisões informadas, identificar tendências, mudar mix de produtos ou mercados conforme necessidade. Isso ajuda a manter o negócio adaptável e ágil.
 
-📈 Conclusão:
+### Conclusão:
 As informações apresentadas no dashboard demonstram uma tendência de crescimento e diversos insights para tomada de decisão, mas o sucesso depende de execução cuidadosa: controle de estoque, finanças rígidas, diversificação de portfólio/mercados e boa gestão de riscos dentre outros fatores.
 Se bem gerenciado, o negócio tem chance de se consolidar, crescer e gerar lucros consistentes. Se não, está vulnerável a flutuações naturais de mercado e vendas.
 
