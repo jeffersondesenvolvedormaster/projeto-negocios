@@ -35,7 +35,7 @@ Concentrar no que já gera mais receita (Carretera, Montana, Paseo) ajuda a otim
 
 - Projeção de crescimento e abordagem estratégica de premiumização
 
-A previsão de crescimento de vendas (+12%) e aumento da receita premium (+18%) sinaliza que há espaço para escalar. Isso sugere que a proposta de valor (talvez preço + qualidade) tem apelo — importante para consolidar posicionamento de marca.
+A previsão de crescimento de vendas e aumento da receita premium sinaliza que há espaço para escalar. Isso sugere que a proposta de valor (talvez preço + qualidade) tem apelo — importante para consolidar posicionamento de marca.
 
 Um plano de ação claro (expansão geográfica + foco em produtos premium + adaptação sazonal) indica boa estrutura de planejamento — fator crucial para negócios bem-sucedidos.
 
