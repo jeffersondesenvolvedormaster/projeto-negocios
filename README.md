@@ -2,6 +2,9 @@ Abra o site abaixo no navegador Google Chrome para ter acesso as funcionalidades
 
  Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
 
+ <img width="914" height="545" alt="image" src="https://github.com/user-attachments/assets/c5f2da28-4cfd-4c72-9ce4-fd8073d140d6" />
+
+
 ### Principais pontos demonstrados pelo dashboard:
 
 Sazonalidade: há picos de demanda de vendas de Setembro a Dezembro. 
