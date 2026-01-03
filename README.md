@@ -4,6 +4,9 @@ Abra o site abaixo no navegador Google Chrome para ter acesso as funcionalidades
 
  <img width="914" height="545" alt="image" src="https://github.com/user-attachments/assets/c5f2da28-4cfd-4c72-9ce4-fd8073d140d6" />
 
+### Caso seu navegador não permita o acesso tente na fonte: 
+ https://lookerstudio.google.com/u/0/reporting/5f08a3c2-0c86-4cf8-9298-5abdafbda6fc/page/gvUhF/edit
+
 
 ### Principais pontos demonstrados pelo dashboard:
 
