@@ -2,7 +2,7 @@ Abra o site abaixo no navegador Google Chrome para ter acesso as funcionalidades
 
  Confira em: https://jeffersondesenvolvedormaster.github.io/projeto-negocios/
 
-🔎 Principais pontos demonstrados pelo dashboard:
+### Principais pontos demonstrados pelo dashboard:
 
 Sazonalidade: há picos de demanda de vendas de Setembro a Dezembro. 
 
@@ -17,7 +17,7 @@ Projeções para os próximos 12 meses: crescimento de vendas de +12%, margem m�
 Estratégia sugerida: focar em produtos premium, expansão nos mercados da Alemanha, França e México, e fazer reposição de estoque conforme sazonalidade. 
 
 
-✅  Forças e oportunidades
+### Forças e oportunidades
 
 Identificação clara de sazonalidade e picos
 
