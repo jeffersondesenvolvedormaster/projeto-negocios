@@ -12,7 +12,7 @@ Geografia: os mercados com maior potencial identificados são Alemanha, Canadá 
 Produtos que mais faturam: os produtos chamados Carretera, Montana e Paseo lideram o faturamento. 
 
 
-Projeções para os próximos 12 meses: crescimento de vendas de +12%, margem média mantida em 35–45%, e crescimento da receita premium em +18%. 
+
 
 Estratégia sugerida: focar em produtos premium, expansão nos mercados da Alemanha, França e México, e fazer reposição de estoque conforme sazonalidade. 
 
